@@ -103,7 +103,6 @@ section {
 }
 
 body {
-    padding-top: 150px;
     line-height: 1;
 }
 
@@ -131,6 +130,7 @@ table {
 }
 
 body {
+    padding-top: 150px;
     font-family:
         system-ui,
         -apple-system,
